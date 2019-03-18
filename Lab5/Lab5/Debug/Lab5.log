@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\alexey_der\source\repos\lab for saod\lab5\lab5\main.cpp(97): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexey_der\source\repos\lab for saod\lab5\lab5\main.cpp(142): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab5.vcxproj -> C:\Users\Alexey_Der\source\repos\lab for SAOD\Lab5\Debug\Lab5.exe
